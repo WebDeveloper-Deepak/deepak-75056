@@ -4,11 +4,11 @@ A PASSIONATE FULL-STACK DEVELOPER(MERN)
 With a B.Sc. in Computer Science
 
 😊 Hi friends
- 🔭 I’m currently working on MERN Stack Development Projects.
+ 🔭 I’m currently working on MERN Stack Development Real-Life Projects.
 
  💬 Ask me about MERN Stack | React, JavaScript, NodeJS, HTML, CSS, Java.
 
-✨ Fun Facts
+✨ Fun Facts -
  🚀 Started coding at 18, fueled by a passion for problem-solving.
  🍏 I’m a healthy lifestyle and wellness enthusiast.
  📈 I thrive on self-development.
@@ -16,9 +16,9 @@ With a B.Sc. in Computer Science
 
 
 💻 Languages, Technologies and Tools -
-nodejs react javascript mongodb express bootstrap css3 html5 postgresql java mysql
+Java, Python, HTML5, CSS3, BootStrap, JavaScript, JQuery, ReactJS, NodeJS, ExpressJS, MongoDB, Mysql.
 
-Contact Me 
+Contact Me -
 deepak.ds.7421@gmail.com
 www.linkedin.com/in/deepaksharma2024
 
