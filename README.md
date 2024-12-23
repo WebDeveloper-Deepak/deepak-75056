@@ -1,10 +1,3 @@
-- 👋 Hi, I’m @deepak-75056
-- 👀 I love Coding ...
-- 🌱 I’m learning Web Development ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
-<!---
-deepak-75056/deepak-75056 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes. I'm sure you will find impressive resources in it. Thanks Code Buddy.
---->
+Hi 👋, I'm Deepak Sharma
+A PASSIONATE FULL-STACK DEVELOPER(MERN)
+With a B.Sc. in Computer Science
